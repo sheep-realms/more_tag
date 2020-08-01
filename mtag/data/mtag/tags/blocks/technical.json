@@ -1,0 +1,8 @@
+{
+	"replace": false,
+	"values": [
+		"#mtag:command_block",
+		"#mtag:structure",
+		"minecraft:barrier"
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"replace": false,
+	"values": [
+		"#minecraft:rails",
+		"#mtag:wood_main",
+		"minecraft:smoker",
+		"minecraft:grindstone",
+		"minecraft:smithing_table",
+		"minecraft:stonecutter",
+		"minecraft:bell",
+		"minecraft:sticky_piston",
+		"minecraft:piston",
+		"minecraft:lever",
+		"minecraft:tripwire_hook"
+	]
+}

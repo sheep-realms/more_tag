@@ -1,0 +1,11 @@
+{
+	"replace": false,
+	"values": [
+		"#mtag:acacia",
+		"#mtag:birch",
+		"#mtag:dark_oak",
+		"#mtag:jungle",
+		"#mtag:oak",
+		"#mtag:spruce"
+	]
+}

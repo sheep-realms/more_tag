@@ -1,0 +1,25 @@
+{
+	"replace": false,
+	"values": [
+		"#mtag:white",
+		"#mtag:orange",
+		"#mtag:magenta",
+		"#mtag:light_blue",
+		"#mtag:yellow",
+		"#mtag:lime",
+		"#mtag:pink",
+		"#mtag:gray",
+		"#mtag:light_gray",
+		"#mtag:cyan",
+		"#mtag:purple",
+		"#mtag:blue",
+		"#mtag:brown",
+		"#mtag:green",
+		"#mtag:red",
+		"#mtag:black",
+		"minecraft:shulker_box",
+		"minecraft:terracotta",
+		"minecraft:glass",
+		"minecraft:glass_pane"
+	]
+}

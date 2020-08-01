@@ -1,0 +1,25 @@
+{
+	"replace": false,
+	"values": [
+		"#mtag:wood",
+		"#mtag:wood_chest",
+		"minecraft:crafting_table",
+		"minecraft:ladder",
+		"minecraft:cartography_table",
+		"minecraft:fletching_table",
+		"minecraft:campfire",
+		"minecraft:soul_campfire",
+		"minecraft:torch",
+		"minecraft:soul_torch",
+		"minecraft:redstone_torch",
+		"minecraft:jukebox",
+		"minecraft:composter",
+		"minecraft:barrel",
+		"minecraft:loom",
+		"minecraft:beehive",
+		"minecraft:note_block",
+		"minecraft:lectern",
+		"minecraft:dead_bush",
+		"minecraft:daylight_detector"
+	]
+}

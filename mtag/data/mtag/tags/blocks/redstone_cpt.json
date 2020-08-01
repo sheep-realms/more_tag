@@ -1,0 +1,30 @@
+{
+	"replace": false,
+	"values": [
+		"#minecraft:pressure_plates",
+		"#minecraft:buttons",
+		"#minecraft:fence_gates",
+		"#minecraft:trapdoors",
+		"#minecraft:doors",
+		"minecraft:redstone_wire",
+		"minecraft:redstone_torch",
+		"minecraft:lever",
+		"minecraft:dispenser",
+		"minecraft:note_block",
+		"minecraft:sticky_piston",
+		"minecraft:piston",
+		"minecraft:tnt",
+		"minecraft:redstone_lamp",
+		"minecraft:tripwire_hook",
+		"minecraft:trapped_chest",
+		"minecraft:redstone_block",
+		"minecraft:daylight_detector",
+		"minecraft:hopper",
+		"minecraft:dropper",
+		"minecraft:observer",
+		"minecraft:repeater",
+		"minecraft:comparator",
+		"minecraft:lectern",
+		"minecraft:target"
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"replace": false,
+	"values": [
+		"#mtag:ow_ore",
+		"#mtag:terracotta",
+		"#minecraft:ice",
+		"minecraft:bubble_column",
+		"minecraft:clay",
+		"minecraft:coarse_dirt",
+		"minecraft:dirt",
+		"minecraft:grass_block",
+		"minecraft:mycelium",
+		"minecraft:podzol",
+		"minecraft:sand",
+		"minecraft:red_sand",
+		"minecraft:sandstone",
+		"minecraft:red_sandstone",
+		"minecraft:snow",
+		"minecraft:snow_block",
+		"minecraft:stone",
+		"minecraft:granite",
+		"minecraft:diorite",
+		"minecraft:andesite"
+	]
+}
